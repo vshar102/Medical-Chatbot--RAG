@@ -1,5 +1,10 @@
-colorama
-langchain>=0.1.0
 streamlit
+langchain
+pypdf2
+faiss-cpu
+sentence-transformers
+python-dotenv
 watsonxlangchain
-requests
+huggingface-hub
+transformers
+torch
