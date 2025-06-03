@@ -1,10 +1,10 @@
 streamlit
 langchain
+langchain-groq
 pypdf2
 faiss-cpu
 sentence-transformers
-python-dotenv
-watsonxlangchain
 huggingface-hub
 transformers
 torch
+python-dotenv
