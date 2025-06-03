@@ -39,7 +39,7 @@ chain = RetrievalQA.from_chain_type(
     return_source_documents=True  
 )
 
-st.title('📚 AI-Powered PDF Q&A Bot')
+st.title('📚 Document-Backed Q&A Bot')
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
