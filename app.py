@@ -20,7 +20,7 @@ llm = ChatGroq(
 # Load and index the PDF with caching
 @st.cache_resource
 def load_pdf():
-    pdf_name = 'Symptoms to diagnosis .pdf' 
+    pdf_name = 'RAG book.pdf' 
     loaders = [PyPDFLoader(pdf_name)]
     
     index = VectorstoreIndexCreator(
