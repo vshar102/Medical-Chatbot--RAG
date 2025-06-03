@@ -8,3 +8,4 @@ huggingface-hub
 transformers
 torch
 python-dotenv
+langchain-community
