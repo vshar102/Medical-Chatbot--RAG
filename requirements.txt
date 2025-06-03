@@ -1,7 +1,6 @@
 streamlit
 langchain
 langchain-groq
-pypdf2
 faiss-cpu
 sentence-transformers
 huggingface-hub
@@ -9,3 +8,4 @@ transformers
 torch
 python-dotenv
 langchain-community
+pypdf
