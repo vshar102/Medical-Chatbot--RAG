@@ -1,0 +1,5 @@
+colorama
+langchain>=0.1.0
+streamlit
+watsonxlangchain
+requests
